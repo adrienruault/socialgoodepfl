@@ -2829,4 +2829,6 @@ body.is-menu-visible #menu {
 .project-img {
   display: block;
   margin: 0 auto;
+  border-radius: 5px;
+  border: 1px solid #34495e
 }
